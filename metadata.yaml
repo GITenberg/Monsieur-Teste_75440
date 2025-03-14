@@ -1,0 +1,39 @@
+_repo: Monsieur-Teste_75440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valéry, Paul
+    alias: Valery, Paul
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '49451'
+    url: http://www.gutenberg.org/2009/agents/49451
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry
+    - https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry
+description: ''
+gutenberg_issued: '2025-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75440'
+language: fr
+pgterms:marc904: https://polona.pl/preview/a70f361b-d84b-4aea-8473-52e6e63e6d4f
+pgterms:marc905: 20250219003930valry
+pgterms:marc906: '1929'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bGallimard, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Fiction'
+- !lcsh 'Men -- Fiction'
+- !lcsh 'Sensitivity (Personality trait) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La soirée avec M. Teste -- Lettre d'un ami -- Lettre de Madame Émilie
+  Teste -- Extraits du log-book de Monsieur Teste.
+title: Monsieur Teste
+url: http://www.gutenberg.org/ebooks/75440
